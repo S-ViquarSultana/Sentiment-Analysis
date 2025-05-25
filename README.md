@@ -20,7 +20,6 @@ Please download it directly from Kaggle and place the files in the `data/` folde
 Sentiment-Analysis/
 
 │
-
 ├── data/ # Dataset files (to be downloaded manually)
 
 ├── notebooks/ # Jupyter notebooks for exploration and experiments
@@ -39,5 +38,3 @@ Sentiment-Analysis/
 ## 🤝 Contributing
 Feel free to submit issues or pull requests for improvements! 💡
 
-## 📄 License
-Specify your license here (e.g., MIT License) 📝
