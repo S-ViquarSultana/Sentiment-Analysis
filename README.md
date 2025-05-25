@@ -18,14 +18,23 @@ Please download it directly from Kaggle and place the files in the `data/` folde
 
 ## 📁 Folder Structure
 Sentiment-Analysis/
+
 │
+
 ├── data/ # Dataset files (to be downloaded manually)
+
 ├── notebooks/ # Jupyter notebooks for exploration and experiments
+
 ├── scripts/ # Preprocessing, training, and evaluation scripts
+
 ├── models/ # Saved trained models
+
 ├── requirements.txt # Python dependencies
+
 ├── README.md # Project documentation
+
 └── .gitignore # Git ignore rules
+
 
 ## 🤝 Contributing
 Feel free to submit issues or pull requests for improvements! 💡
